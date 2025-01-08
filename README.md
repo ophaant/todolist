@@ -1,4 +1,4 @@
-# CRM Sederhana
+# Todolist
 
 ## Requirements
 
@@ -16,8 +16,8 @@ Follow these steps to set up the project on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ophaant/crm-paketur.git
-cd crm-paketur
+git clone https://github.com/ophaant/todolist.git
+cd todolist
 ```
 
 ### 2. Install Dependencies
@@ -81,13 +81,6 @@ php artisan serve
 
 Visit `http://localhost:8000/api/` in your browser.
 
-## Running Tests
-
-To run the test suite:
-
-```bash
-php artisan test
-```
 
 ## List User Test
 
