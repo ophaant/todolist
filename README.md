@@ -88,6 +88,8 @@ Visit `http://localhost:8000/api/` in your browser.
 |-------------------------|------------|
 | `test@example.com`      | `password` |
 
+## Daftar API
+[Todolist API](todolist.openapi.json)
 
 ## Troubleshooting
 
